@@ -1,0 +1,7 @@
+colorama
+time
+AppOpener
+sys
+os
+platform
+calendar
